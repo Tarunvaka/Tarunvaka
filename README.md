@@ -18,9 +18,9 @@
 # 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-readme-stats.vercel.app/api?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tarunvaka&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Tarunvaka&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
@@ -28,7 +28,7 @@
 ## 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-profile-trophy.vercel.app/?username=Tarunvaka&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=Tarunvaka&theme=radical&no-frame=true&no-bg=true&margin-w=4)-->
 
 <a href="https://github-trophies.vercel.app/?username=Tarunvaka" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=Tarunvaka&theme=radical&margin-w=4&margin-h=4">
