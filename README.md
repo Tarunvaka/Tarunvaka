@@ -29,6 +29,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://github-profile-trophy.vercel.app/?username=Tarunvaka&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<a href="https://github-trophies.vercel.app/?username=Tarunvaka" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=Tarunvaka&theme=radical&margin-w=4&margin-h=4">
+</a>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Tarunvaka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### 🔝 Top Contributed Repo
