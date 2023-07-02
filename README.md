@@ -1,3 +1,7 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Tarun+Vaka;I'm+a+Web+Developer;I'm+a+Data+Scientist"></p>
+
 # 💫 About Me:
 🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati, with a focus on data science. Exploring algorithms, software development, and data-driven insights.<br><br>👯 Looking to collaborate on projects that merge computer science and data science, creating innovative solutions that leverage the power of data.<br><br>🤝 Seeking guidance to enhance my understanding of advanced computer science concepts and deepen my knowledge of data science techniques.<br><br>🌱 Learning programming languages like Java, C++, Python, and R, along with data preprocessing, exploratory data analysis, and predictive modeling.<br><br>💬 Ask me anything about computer science, data science, and their intersection. Passionate about data-driven problem-solving and creating meaningful insights.<br><br>⚡ Fun fact: When not coding, I enjoy exploring the latest advancements in both computer science and data science, experimenting with data visualization techniques, and staying up-to-date with emerging trends. <br><br> 🌐 My Website - <a href="https://tarunvaka.github.io/Personal-Website/" target="_blank" color="white" text-decoration="underline">MyWebsite</a>
 
