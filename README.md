@@ -22,6 +22,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tarunvaka&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[<img src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
+
 ## 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
