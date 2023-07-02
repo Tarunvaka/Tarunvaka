@@ -18,9 +18,7 @@
 # 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--![](https://github-readme-stats.vercel.app/api?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tarunvaka&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Tarunvaka&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvaka&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
@@ -53,15 +51,6 @@
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarunvaka">
           <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarunvaka&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=Tarunvaka">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=Tarunvaka&theme=dracula">
         </a>
       </td>
     </tr>
