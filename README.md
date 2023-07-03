@@ -90,6 +90,6 @@
 
 
 <!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tarunvaka&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tarunvaka&limit=5&theme=nord&combine_all_yearly_contributions=true)-->
 
-[![](https://visitcount.itsvg.in/api?id=Tarunvaka&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=Tarunvaka&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
