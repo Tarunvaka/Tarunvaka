@@ -32,9 +32,9 @@
   <img src="https://github-trophies.vercel.app/?username=Tarunvaka&theme=radical&margin-w=4&margin-h=4">
 </a>
 
-<a href="https://github.com/Tarunvaka/github-profile-trophy">
+<!--<a href="https://github.com/Tarunvaka/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Tarunvaka&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+</a>-->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Tarunvaka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### 📈 User Statistics
