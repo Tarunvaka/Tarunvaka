@@ -1,9 +1,11 @@
+# Hey there :wave:
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tarunvaka/count.svg" />
-</p>
+</p>-->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
