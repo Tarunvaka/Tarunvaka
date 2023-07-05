@@ -42,9 +42,9 @@
   <img src="https://github-trophies.vercel.app/?username=Tarunvaka&theme=radical&margin-w=4&margin-h=4">
 </a>
 
-<a href="https://github-trophies.vercel.app/?username=sarthakbh321" target="_blank">
+<!--<a href="https://github-trophies.vercel.app/?username=sarthakbh321" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=sarthakbh321&theme=radical&margin-w=4&margin-h=4">
-</a>
+</a>-->
 
 
 <!--<a href="https://github.com/Tarunvaka/github-profile-trophy">
