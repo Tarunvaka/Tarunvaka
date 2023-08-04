@@ -24,6 +24,8 @@
 <li>🌐 My Website - <a href="https://vakatarun.github.io/" target="_blank" color="white" text-decoration="underline">MyWebsite</a></li>
 </ul>
 
+<hr>
+
 ## 🌐 Socials:
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
