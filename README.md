@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati.<br>
+* 🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati.<br>
 👯 Passionate machine learning practitioner exploring the depths of deep learning.<br>
 🤝 Dedicated to unraveling the mysteries of neural networks using TensorFlow.<br>
 🌱 Learning programming languages like Java, C++, Python, along with exploratory data analysis, and predictive modeling.<br>
