@@ -77,7 +77,6 @@
 </a>-->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Tarunvaka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<hr>
 
 
 # 📈 User Statistics
