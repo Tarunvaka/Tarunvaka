@@ -26,7 +26,7 @@
 
 <hr>
 
-## 🌐 Socials:
+# 🌐 Socials:
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarun_vaka_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-vaka-302475233/)  [![kaggle](https://img.shields.io/badge/Kaggle-8A2BE2)](https://www.kaggle.com/tarunvaka)
@@ -40,7 +40,7 @@
 
 <hr>
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 
@@ -50,7 +50,7 @@
 
 <hr>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 <!--![](https://github-profile-trophy.vercel.app/?username=Tarunvaka&theme=radical&no-frame=true&no-bg=true&margin-w=4)-->
@@ -72,7 +72,7 @@
 <hr>
 
 
-### 📈 User Statistics
+# 📈 User Statistics
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 <!--<table>
