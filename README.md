@@ -16,12 +16,17 @@
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <ul>
 <li>🔭 Currently studying Computer Science and Engineering at SRM University, Amaravati.<br></li>
-<li>👯 Passionate machine learning practitioner exploring the depths of deep learning.<br></li>
-<li>🤝 Dedicated to unraveling the mysteries of neural networks using TensorFlow.<br></li>
-<li>🌱 Learning programming languages like Java, C++, Python, along with exploratory data analysis, and predictive modeling.<br></li>
+<li>🚀 Delving into advanced neural network architectures for groundbreaking solutions in deep learning.</li>
+<li>💡 Pioneering cutting-edge TensorFlow applications to decode intricate patterns in data.<br></li>
+<li>🔍 Analyzing and uncovering data trends for the development of innovative deep learning models.<br></li>
+<li>💻 Proficient in Java, C++, Python, with a focus on programming excellence and robust data structures.<br></li>
+<li>📊 Leveraging expertise in exploratory data analysis and predictive modeling for data-driven insights.<br></li>
+<!-- <li>💡 Pioneering cutting-edge TensorFlow applications to decode intricate patterns in data.<br></li>
 <li>💬 Exploring patterns and trends in data to develop cutting-edge deep learning models.<br></li>
+<li>💡 Pioneering cutting-edge TensorFlow applications to decode intricate patterns in data.<br></li>
+<li>💬 Exploring patterns and trends in data to develop cutting-edge deep learning models.<br></li> -->
 <!--⚡ Fun fact: When not coding, I enjoy exploring the latest advancements in both computer science and data science, experimenting with data visualization techniques, and staying up-to-date with emerging trends. <br><br> -->
-<li>🌐 My Website - <a href="https://vakatarun.github.io/" target="_blank" color="white" text-decoration="underline">MyWebsite</a></li>
+<li>🌐 Showcasing achievements and projects on <a href="https://vakatarun.github.io/" target="_blank" color="white" text-decoration="underline">MyWebsite</a>, providing a glimpse into my coding journey.</li>
 </ul>
 
 <hr>
