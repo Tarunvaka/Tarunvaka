@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-labelledby="t">
+  <title id="t">Tarun Vaka — Data Science, ML, GenAI and content creator</title>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F0F0F0" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#121212" stop-opacity="1"/>
+      <stop offset="0.45" stop-color="#121212" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#121212" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .d { fill: #F0F0F0; fill-opacity: .38; }
+    .fit { fill: none; stroke: #E0F11F; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    /* animations only add an entrance: if a renderer skips them, the final frame is what shows */
+    @media (prefers-reduced-motion: no-preference) {
+      .d, .o { animation: pop .5s ease-out backwards; }
+      .fit { stroke-dasharray: 700; animation: draw 1.6s cubic-bezier(.3,.7,.2,1) .5s backwards; }
+      .ring { transform-box: fill-box; transform-origin: center; animation: spin 12s linear infinite; }
+      .tag { animation: pop .6s ease-out 2.1s backwards; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+    }
+    @keyframes pop { from { opacity: 0; } }
+    @keyframes draw { from { stroke-dashoffset: 700; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="1280" height="440" rx="20" fill="#121212"/>
+  <rect width="1280" height="440" rx="20" fill="url(#grid)"/>
+  <rect width="760" height="440" rx="20" fill="url(#fade)"/>
+
+  <!-- eyebrow -->
+  <rect x="72" y="70" width="10" height="10" fill="#E0F11F"/>
+  <text x="94" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3.5" fill="#E0F11F">DATA SCIENCE · ML · GENAI + CONTENT CREATOR</text>
+
+  <!-- name (textLength keeps layout identical whatever font the viewer has) -->
+  <text x="66" y="236" font-family="'Big Shoulders Display', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="150" textLength="430" lengthAdjust="spacingAndGlyphs" fill="#F0F0F0">TARUN</text>
+  <text x="66" y="362" font-family="'Big Shoulders Display', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="150" textLength="350" lengthAdjust="spacingAndGlyphs" fill="#E0F11F">VAKA</text>
+
+  <!-- footer line -->
+  <text x="72" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2" fill="#8A8A8A">MS DATA SCIENCE @ RUTGERS · CAMDEN, NJ</text>
+  <text x="1196" y="404" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2" fill="#E0F11F">TARUNVAKA.COM<tspan class="cursor">_</tspan></text>
+
+  <!-- scatter + fit: a nod to The Outliers Club -->
+  <g>
+    <path d="M800 96V338H1200" fill="none" stroke="#F0F0F0" stroke-opacity=".18" stroke-width="1.5"/>
+    <circle class="d" style="animation-delay:0.15s" cx="804.0" cy="324.9" r="4.5"/>
+    <circle class="d" style="animation-delay:0.18s" cx="811.8" cy="328.4" r="4.5"/>
+    <circle class="d" style="animation-delay:0.22s" cx="832.0" cy="307.2" r="4.5"/>
+    <circle class="d" style="animation-delay:0.26s" cx="847.6" cy="310.7" r="4.5"/>
+    <circle class="d" style="animation-delay:0.29s" cx="859.0" cy="300.2" r="4.5"/>
+    <circle class="d" style="animation-delay:0.33s" cx="875.3" cy="302.1" r="4.5"/>
+    <circle class="d" style="animation-delay:0.36s" cx="894.3" cy="296.3" r="4.5"/>
+    <circle class="d" style="animation-delay:0.40s" cx="908.2" cy="281.1" r="4.5"/>
+    <circle class="d" style="animation-delay:0.43s" cx="927.9" cy="292.6" r="4.5"/>
+    <circle class="d" style="animation-delay:0.47s" cx="941.6" cy="262.2" r="4.5"/>
+    <circle class="d" style="animation-delay:0.50s" cx="962.9" cy="276.8" r="4.5"/>
+    <circle class="d" style="animation-delay:0.54s" cx="972.2" cy="252.1" r="4.5"/>
+    <circle class="d" style="animation-delay:0.57s" cx="986.7" cy="240.9" r="4.5"/>
+    <circle class="d" style="animation-delay:0.61s" cx="1008.9" cy="221.2" r="4.5"/>
+    <circle class="d" style="animation-delay:0.64s" cx="1018.7" cy="189.3" r="4.5"/>
+    <circle class="d" style="animation-delay:0.68s" cx="1036.4" cy="182.2" r="4.5"/>
+    <circle class="d" style="animation-delay:0.71s" cx="1053.9" cy="182.8" r="4.5"/>
+    <circle class="d" style="animation-delay:0.75s" cx="1066.5" cy="172.3" r="4.5"/>
+    <circle class="d" style="animation-delay:0.78s" cx="1086.8" cy="149.3" r="4.5"/>
+    <circle class="d" style="animation-delay:0.82s" cx="1101.8" cy="157.7" r="4.5"/>
+    <circle class="d" style="animation-delay:0.85s" cx="1116.4" cy="140.2" r="4.5"/>
+    <circle class="d" style="animation-delay:0.89s" cx="1134.5" cy="163.9" r="4.5"/>
+    <circle class="d" style="animation-delay:0.92s" cx="1146.0" cy="125.0" r="4.5"/>
+    <circle class="d" style="animation-delay:0.96s" cx="1167.9" cy="128.0" r="4.5"/>
+    <circle class="d" style="animation-delay:0.99s" cx="1182.3" cy="124.6" r="4.5"/>
+    <circle class="d" style="animation-delay:1.03s" cx="1192.0" cy="167.5" r="4.5"/>
+    <path class="fit" d="M800.0,314.3 L806.6,313.6 L813.2,312.9 L819.8,312.0 L826.4,311.1 L833.0,310.0 L839.6,308.9 L846.2,307.6 L852.8,306.2 L859.4,304.6 L866.0,302.9 L872.6,300.9 L879.2,298.8 L885.8,296.5 L892.4,294.0 L899.0,291.3 L905.6,288.3 L912.2,285.1 L918.8,281.6 L925.4,277.9 L932.0,273.9 L938.6,269.7 L945.2,265.2 L951.8,260.5 L958.4,255.6 L965.0,250.5 L971.6,245.2 L978.2,239.8 L984.8,234.3 L991.4,228.7 L998.0,223.0 L1004.6,217.3 L1011.2,211.7 L1017.8,206.2 L1024.4,200.8 L1031.0,195.5 L1037.6,190.4 L1044.2,185.5 L1050.8,180.8 L1057.4,176.3 L1064.0,172.1 L1070.6,168.1 L1077.2,164.4 L1083.8,160.9 L1090.4,157.7 L1097.0,154.7 L1103.6,152.0 L1110.2,149.5 L1116.8,147.2 L1123.4,145.1 L1130.0,143.1 L1136.6,141.4 L1143.2,139.8 L1149.8,138.4 L1156.4,137.1 L1163.0,136.0 L1169.6,134.9 L1176.2,134.0 L1182.8,133.1 L1189.4,132.4 L1196.0,131.7"/>
+    <g class="o" style="animation-delay:1.50s">
+      <circle cx="906.9" cy="126.0" r="6" fill="#E0F11F"/>
+      <circle class="ring" cx="906.9" cy="126.0" r="15" fill="none" stroke="#E0F11F" stroke-width="1.5" stroke-dasharray="4 4"/>
+    </g>
+    <g class="o" style="animation-delay:1.75s">
+      <circle cx="1116.8" cy="312.0" r="6" fill="#E0F11F"/>
+      <circle class="ring" cx="1116.8" cy="312.0" r="15" fill="none" stroke="#E0F11F" stroke-width="1.5" stroke-dasharray="4 4"/>
+    </g>
+    <g class="tag">
+      <path d="M922.9 122.0L950.9 104.0H966.9" fill="none" stroke="#E0F11F" stroke-width="1.2"/>
+      <text x="972.9" y="108.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#E0F11F">outlier — keep it</text>
+    </g>
+  </g>
+</svg>
