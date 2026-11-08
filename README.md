@@ -20,7 +20,7 @@ I also teach data science to beginners on YouTube at **[The Outliers Club](https
 - 🎓 &nbsp;MS Data Science @ Rutgers–Camden (2025–27, 4.0 GPA) · B.Tech CSE @ SRM University AP
 - 🔬 &nbsp;Building **[skill-bench](https://github.com/Tarunvaka/skill-bench)**, a pre - registered A/B test of whether Claude Code skills actually work
 - 🎥 &nbsp;40+ videos and 4 course playlists on The Outliers Club
-- 📫 &nbsp;Have an opportunity or want to build something together? **tarunvaka2003@gmail.com**
+- 📫 &nbsp;Have an opportunity or want to build something together? **tarunvaka2003@gmail.com** 
 
 ## Featured work
 
