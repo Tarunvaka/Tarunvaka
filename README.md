@@ -12,7 +12,7 @@
 </p>
 
 ## Hi, I'm Tarun
-
+ 
 I'm a Data Science grad student at **Rutgers University–Camden**, building machine learning and GenAI projects end to end — data prep, feature engineering, modeling, evaluation, deployment. Lately I've been drawn to a harder question: *can you actually trust this model, this dataset, this agent?* Most of what I'm building now tries to answer it.
 
 I also teach data science to beginners on YouTube at **[The Outliers Club](https://www.youtube.com/@TheOutliersClub)**.
