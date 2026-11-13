@@ -1,6 +1,6 @@
 <a href="https://tarunvaka.com">
   <img src="assets/banner.svg" alt="Tarun Vaka — Data Science · ML · GenAI + Content Creator" width="100%">
-</a>
+</a> 
 
 <p align="center">
   <a href="https://tarunvaka.com"><img src="https://img.shields.io/badge/tarunvaka.com-121212?style=for-the-badge&logo=googlechrome&logoColor=E0F11F" alt="Website"></a>
