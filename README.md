@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/tarun_vaka_/"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E0F11F" alt="Instagram"></a>
   <a href="mailto:tarunvaka2003@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=E0F11F" alt="Email"></a>
 </p>
-
+ 
 ## Hi, I'm Tarun
  
 I'm a Data Science grad student at **Rutgers University–Camden**, building machine learning and GenAI projects end to end — data prep, feature engineering, modeling, evaluation, deployment. Lately I've been drawn to a harder question: *can you actually trust this model, this dataset, this agent?* Most of what I'm building now tries to answer it.
